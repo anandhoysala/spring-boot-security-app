@@ -1,4 +1,4 @@
-# spring-boot-security-app
+# Spring-boot Security application
 Secure applications using Spring boot
 
 # Pre-requisite
