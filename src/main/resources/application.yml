@@ -1,0 +1,13 @@
+server:
+  port : 9090
+
+login:
+  username : user
+  password : user
+  role : USER  
+  
+admin:
+  username : admin
+  password : admin
+  role : ADMIN  
+  
