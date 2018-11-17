@@ -9,15 +9,15 @@ Secure applications using Spring boot
 
 # Build/Run the application
 
-	1. extract the spring-boot-security-app to a folder location 
+	1. extract the spring-boot-security-app.zip to a folder location on your machine
 	2. navigate to the extracted folder location & execute the below command 
 		+ mvn clean install
 	3. under the target/ folder you will find a war
-		+ copy this war into Apache tomcat folder under /webapps
+		+ copy this war into Apache tomcat server folder under /webapps
 	4. start the tomcat server from /bin folder 
 		+ catalina run - (on windows)
 		+ sh ./catalina.sh run - (on linux)
 		
 # Thanks
 	
-	Happy coding
+	
